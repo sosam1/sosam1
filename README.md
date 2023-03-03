@@ -7,4 +7,12 @@ I'm 20 years old, I'm a jr developer with no work experience looking to learn th
 <img align="left" alt="JS logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br><br>
-- 🔭 I’m currently working on my own proyect "Guess the flag 2.0"
+- 🔭 I’m currently working on "Guess the flag 2.0"
+
+# let's contact
+
+## :mailbox_with_mail: Connect With Me
+    
+  <a href = "mailto:sosam1763@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
