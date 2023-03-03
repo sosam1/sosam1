@@ -9,10 +9,7 @@ I'm 20 years old, I'm a jr developer with no work experience looking to learn th
 <br><br>
 - 🔭 I’m currently working on "Guess the flag 2.0"
 
-# let's contact
-
-## :mailbox_with_mail: Connect With Me
-    
+# let's contact    
   <a href = "mailto:sosam1763@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
