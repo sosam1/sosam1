@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Martin Sosa (sosam) 👋
 
 <!--
 **sosam1/sosam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on my own proyect "Guess the flag 2.0"
