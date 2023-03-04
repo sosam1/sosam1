@@ -7,7 +7,7 @@ I'm 20 years old, I'm a jr developer with no work experience looking to learn th
 <img align="left" alt="JS logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br><br>
-- 🔭 I’m currently working on "Guess the flag 2.0"
+- 🔭 I’m currently working on <a href="https://github.com/sosam1/Guess-the-flag-2.0.">Guess the flag 2.0"</a>
 
 # let's contact    
   <a href = "mailto:sosam1763@gmail.com">
