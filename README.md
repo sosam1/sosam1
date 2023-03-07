@@ -1,5 +1,5 @@
 # Hi there, My name is Martin Sosa (sosam) 👋
-I'm 20 years old, I'm a jr developer with no work experience looking to learn through my own projects
+I'm 20 years old, I'm a junior developer with no work experience looking to learn through my own projects
 # My skills:
 
 <img align="left" alt="HTML5 logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
