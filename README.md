@@ -10,11 +10,11 @@ I'm 20 years old, I'm a junior developer with no work experience looking to lear
 
 # 🔭 I’m currently working on 
 
-- <a href="https://github.com/sosam1/guessTheFlag.io">"Guess the flag 2.0"</a>
+- <a href="https://github.com/sosam1/guessTheFlag.io">Guess the flag 2.0</a>
 
-- <a href="https://github.com/sosam1/plazas-ya-front-end">"Plazas-ya (Front-End)</a>
+- <a href="https://github.com/sosam1/plazas-ya-front-end">Plazas-ya (Front-End)</a>
 
-- <a href="https://github.com/sosam1/plazas-ya">"Plazas-ya (Back-End)</a>
+- <a href="https://github.com/sosam1/plazas-ya">Plazas-ya (Back-End)</a>
 
 # let's contact    
   <a href = "mailto:sosam1763@gmail.com">
