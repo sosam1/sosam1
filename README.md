@@ -1,4 +1,4 @@
-# Hi there, My name is Martin Sosa (sosam) 👋
+# Hi there, My name is Martin Sosa 👋
 I'm 21 years old, I'm a junior developer with no work experience looking to learn through my own projects
 # My skills:
 
